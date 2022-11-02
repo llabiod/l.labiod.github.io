@@ -49,9 +49,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-8641-8050
-   # label: Follow me on Twitter
-   # display:
-   #  header: true
+    label: Follow me on Twitter
+    display:
+    header: true
    - icon: dblp
     icon_pack: ai
     link: https://dblp.org/pid/24/8729.html
