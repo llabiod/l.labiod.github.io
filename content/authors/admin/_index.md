@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Lazhar Labiod
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Lazhar
+last_name: Labiod
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Machine Learning/ Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Paris Cité 
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
