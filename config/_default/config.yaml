@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Lazhar Labiod # Website name
-baseURL: 'https://lazhar-labiod.netlify.app' # Website URL
+baseURL: 'URL' # Website URL
 
 ############################
 ## LANGUAGE
