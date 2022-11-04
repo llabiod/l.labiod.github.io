@@ -1,6 +1,5 @@
 
-An instance of the Teaching widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+
 widget: teaching
 
 # This file represents a page section.
