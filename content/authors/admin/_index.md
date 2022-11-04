@@ -76,7 +76,7 @@ email: 'lazhar.labiod@u-paris.fr'
 highlight_name: true
 ---
 
-Lazhar Labiod is an Assistant Professor with the IUT de Paris - Rives de Seine[https://iutparis-seine.u-paris.fr] and the Borelli Center at Université de Paris Cité[https://u-paris.fr]. He received his Ph.D. degree in statistics from Paris 6 University, France. 
+Lazhar Labiod is an Assistant Professor with the [IUT de Paris - Rives de Seine](https://iutparis-seine.u-paris.fr) and the Borelli Center at [Université de Paris Cité](https://u-paris.fr). He received his Ph.D. degree in statistics from Paris 6 University, France. 
 
 Lazhar has made contributions to advance data embedding and co-clustering machine learning methods for solving hard AI problems for real-life applications, including bio-medical data co-clustering, tensor data and attributed graph co-clustering, recommender systems, and multi-views data mining. His research has been published in top conferences and journals including, TNNLS, TKDE, PR, WSDM, ICDM, CIKM, and SIGIR..
 
