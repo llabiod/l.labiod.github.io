@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 140
 
-Teaching:
+- Teaching:
 
   * Supervised Learning
   * Dimension reduction
