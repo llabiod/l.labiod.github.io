@@ -27,8 +27,8 @@ content:
   # Contact details (edit or remove options as required)
   email: lazhar.labiod@u-paris.fr
 #  phone: 888 888 88 88
-  address:
-    street: [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/lazhar-labiod), 45 Rue des Saints Pères
+  address:[Centre Borelli](https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/lazhar-labiod),
+    street: 45 Rue des Saints Pères
     city: Paris
     region: Paris
     postcode: '75006'
