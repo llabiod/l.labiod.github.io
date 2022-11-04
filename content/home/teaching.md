@@ -1,4 +1,2 @@
 
----
-widget: teaching
----
+# teaching...
