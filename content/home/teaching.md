@@ -11,12 +11,12 @@ weight: 120
 title: Teaching
 subtitle:
 content:
-* Supervised Learning
-* Dimension reduction
-* Matrix calculus for ML
-* Probabilities for ML
-* Python programming
-* Python for data science
+  * Supervised Learning
+  * Dimension reduction
+  * Matrix calculus for ML
+  * Probabilities for ML
+  * Python programming
+  * Python for data science
 
 ---
 
