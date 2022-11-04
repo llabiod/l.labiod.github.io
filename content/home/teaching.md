@@ -18,8 +18,5 @@ subtitle:
 * Python programming
 * Python for data science
 
-
-design:
-  columns: '2'
 ---
 
