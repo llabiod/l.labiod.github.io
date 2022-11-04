@@ -10,7 +10,7 @@ weight: 120
 
 title: Teaching
 subtitle:
-
+content:
 * Supervised Learning
 * Dimension reduction
 * Matrix calculus for ML
