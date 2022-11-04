@@ -8,9 +8,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 140
 
-title: Teaching
-subtitle:
-content:
+Teaching:
+
   * Supervised Learning
   * Dimension reduction
   * Matrix calculus for ML
