@@ -6,7 +6,7 @@ widget: teaching
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 140
 
 title: Teaching
 subtitle:
