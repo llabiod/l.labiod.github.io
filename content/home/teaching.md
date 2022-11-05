@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 80
 
 title: Teaching
 subtitle:
@@ -39,7 +39,7 @@ experience:
   - title: Bachlors
     company: IUT de Paris
     company_url: ''
-    company_logo: org-iut
+    company_logo: org-iu
   #  location: California
   #  date_start: '2016-01-01'
   #  date_end: '2020-12-31'
