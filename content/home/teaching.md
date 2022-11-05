@@ -26,9 +26,6 @@ teaching:
     company: Université de Paris Cité
     company_url: ''
     company_logo: org-up
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
     description: |2-
         Responsibilities include:
         
@@ -39,10 +36,7 @@ teaching:
   - title: Bachlors
     company: IUT de Paris
     company_url: ''
-    company_logo: org-iu
-  #  location: California
-  #  date_start: '2016-01-01'
-  #  date_end: '2020-12-31'
+    company_logo: org-iut
     description: |2-
         Responsibilities include:
         
