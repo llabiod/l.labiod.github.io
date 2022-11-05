@@ -26,9 +26,9 @@ experience:
     company: Université de Paris Cité
     company_url: ''
     company_logo: org-UP
-   # location: California
-   # date_start: '2021-01-01'
-   # date_end: ''
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
@@ -40,9 +40,9 @@ experience:
     company: IUT de Paris
     company_url: ''
     company_logo: org-IUT
-   # location: California
-   # date_start: '2016-01-01'
-   # date_end: '2020-12-31'
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: |2-
         Responsibilities include:
         
