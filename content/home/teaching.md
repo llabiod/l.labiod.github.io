@@ -25,7 +25,7 @@ experience:
   - title: Masters - Machine Learning for Data Science
     company: Université de Paris Cité
     company_url: ''
-    company_logo: org-up
+    company_logo: org- up
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Bachlors
     company: IUT de Paris
     company_url: ''
-    company_logo: org-iut
+    company_logo: org- iut
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
